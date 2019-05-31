@@ -1,0 +1,22 @@
+{
+    "symbol": "EOSDT",
+    "account_name": "eosdtsttoken",
+    "overview": {
+        "en": "The first decentralized stablecoin on the EOS blockchain backed by digital assets",
+        "zh": "EOS 上的第一个去中心化且由数字资产支持的稳定币"
+    },
+    "email": "info@eosdt.com",
+    "website": "https://eosdt.com/",
+    "whitepaper": "https://eosdt.com/specification",
+    "published_on": "2019-03-05",
+    "initial_price": {
+        "EOS": "0.2857 EOS",
+        "USD": "1.0000 USD"
+    },
+    "links": {
+        "twitter": "https://twitter.com/eosdt_official",
+        "telegram": "https://t.me/equilibrium_eosdt_official",
+        "github": "https://github.com/equilibrium-eosdt/t",
+        "reddit": "https://www.reddit.com/r/Equilibrium_eosdt"
+    }
+}
